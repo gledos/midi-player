@@ -1,4 +1,4 @@
-这是一个好东西，拯救了我的没有midi播放器的Chromebook
+这是一个好东西，拯救了我的没有midi播放器的Chromebook，源地址在[这里](https://github.com/burnnat/midi-player)
 
 # MIDI Player #
 
