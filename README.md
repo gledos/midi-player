@@ -1,3 +1,5 @@
+这是一个好东西，拯救了我的没有midi播放器的Chromebook
+
 # MIDI Player #
 
 MIDI Player is a Chrome app for playing MIDI files. Supports multiple instruments, volume control, and more.
